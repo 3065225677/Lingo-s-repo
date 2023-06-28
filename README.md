@@ -1,2 +1,5 @@
 # Lingo-s-repo
-something intriguing!
+观者好，这是本人大一的课设作业
+基于unity游戏引擎写的一个rpg类型小游戏
+游戏的基本介绍如下：
+
